@@ -1,21 +1,21 @@
 ## 👋 Hello World, I'm HoSeon Yoo
-I am backend developer. I like to talk to the computer💻 while drinking coffee☕
+I am backend developer. I like to talk to the computer💻 while drinking coffee☕.
 
-<br />
+<br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="330px"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ol9ha0xuv81zi6hq0ktl1qedszsu67dq263edjgf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="330" height="300"/>
 
 ### 🧐 More About Me
-- 🌱&nbsp;I’m currently learning [Spring](https://spring.io/);
-- 👨🏻‍💻&nbsp;Most of my projects are available on [Github](https://github.com/hsyoodev?tab=repositories){:target="_blank"}
-- ✨&nbsp;Knowing the true value of **persistence**, I am running one commit per day and [blogging](https://incredible-meeting-d9c.notion.site/BLOG-535d969c238147639a040f8076ae19c4?pvs=4){:target="_blank"}
-- 💬&nbsp;Ask me about anything tech related, I am happy to help;
-- 💌&nbsp;Feel free to send me on Email(hsyoo.dev@gmail.com)
-- 📝&nbsp;Checkout my [resume](https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4){:target="_blank"}
+- 🌱&nbsp;I’m currently learning <a href="https://spring.io/" target="_blank">Spring</a>
+- 👨🏻‍💻&nbsp;Most of my projects are available on <a href="https://github.com/hsyoodev?tab=repositories" target="_blank">Github</a>
+- ✨&nbsp;Knowing the true value of **persistence**, I am running one commit per day and <a href="https://incredible-meeting-d9c.notion.site/BLOG-535d969c238147639a040f8076ae19c4?pvs=4" target="_blank">blogging</a>
+- 💬&nbsp;Ask me about anything tech related, I am happy to help
+- 💌&nbsp;Feel free to send me on Email
+- 📝&nbsp;Checkout my <a href="https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4" target="_blank">resume</a>
 - 😄&nbsp;Pronouns : he | him
-- ⚡&nbsp;Fun fact : When I am free, I watch annimation.
+- ⚡&nbsp;Fun fact : When I am free, I watch annimation
 
-<br />
+<br/>
 
 ### ⛏️ Skills
 #### BackEnd
@@ -34,7 +34,6 @@ I am backend developer. I like to talk to the computer💻 while drinking coffee
 
 ### 📊 Github Stats
 <div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=hsyoodev&theme=react" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsyoodev&layout=compact&theme=react" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hsyoodev"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsyoodev&layout=compact"/>
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hsyoodev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
