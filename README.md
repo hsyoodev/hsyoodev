@@ -6,12 +6,12 @@ I am backend developer. I like to talk to the computer💻 while drinking coffee
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ol9ha0xuv81zi6hq0ktl1qedszsu67dq263edjgf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="330" height="300"/>
 
 ### 🧐 More About Me
-- 🌱&nbsp;I’m currently learning <a href="https://spring.io/" target="_blank">Spring</a>
-- 👨🏻‍💻&nbsp;Most of my projects are available on <a href="https://github.com/hsyoodev?tab=repositories" target="_blank">Github</a>
-- ✨&nbsp;Knowing the true value of **persistence**, I am running one commit per day and <a href="https://incredible-meeting-d9c.notion.site/BLOG-535d969c238147639a040f8076ae19c4?pvs=4" target="_blank">blogging</a>
+- 🌱&nbsp;I’m currently learning [Spring](https://spring.io/)
+- 👨🏻‍💻&nbsp;Most of my projects are available on [Github](https://github.com/hsyoodev?tab=repositories)
+- ✨&nbsp;Knowing the true value of **persistence**, I am running one commit per day and [blogging](https://incredible-meeting-d9c.notion.site/BLOG-535d969c238147639a040f8076ae19c4?pvs=4)
 - 💬&nbsp;Ask me about anything tech related, I am happy to help
 - 💌&nbsp;Feel free to send me on Email
-- 📝&nbsp;Checkout my <a href="https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4" target="_blank">resume</a>
+- 📝&nbsp;Checkout my [resume](https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4)
 - 😄&nbsp;Pronouns : he | him
 - ⚡&nbsp;Fun fact : When I am free, I watch annimation
 
