@@ -33,5 +33,8 @@ I am backend developer. I like to talk to the computer💻 while drinking coffee
 <br />
 
 ### 📊 Github Stats
-<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=hsyoodev" />
-<img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsyoodev&layout=compact&langs_count=8&card_width=320" />
+<div>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=hsyoodev&theme=react" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsyoodev&layout=compact&theme=react" />
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hsyoodev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
