@@ -1,4 +1,4 @@
-## 👋 Hello World, I'm hsyoodev
+## 👋 Hello World, I'm HoSeon Yoo
 I am backend developer. I like to talk to the computer💻 while drinking coffee☕
 
 <br/>
