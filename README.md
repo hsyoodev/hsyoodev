@@ -1,21 +1,21 @@
 ## 👋 Hello World, I'm HoSeon Yoo
 I am backend developer. I like to talk to the computer💻 while drinking coffee☕
 
-<br/>
+<br />
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="330px"/>
 
 ### 🧐 More About Me
 - 🌱&nbsp;I’m currently learning [Spring](https://spring.io/);
-- 👨🏻‍💻&nbsp;Most of my projects are available on [Github](https://github.com/hsyoodev?tab=repositories)
-- ✨&nbsp;Knowing the true value of **persistence**, I am running one commit per day and [blogging](https://incredible-meeting-d9c.notion.site/BLOG-535d969c238147639a040f8076ae19c4?pvs=4)
+- 👨🏻‍💻&nbsp;Most of my projects are available on [Github](https://github.com/hsyoodev?tab=repositories){:target="_blank"}
+- ✨&nbsp;Knowing the true value of **persistence**, I am running one commit per day and [blogging](https://incredible-meeting-d9c.notion.site/BLOG-535d969c238147639a040f8076ae19c4?pvs=4){:target="_blank"}
 - 💬&nbsp;Ask me about anything tech related, I am happy to help;
 - 💌&nbsp;Feel free to send me on Email(hsyoo.dev@gmail.com)
-- 📝&nbsp;Checkout my [resume](https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4)
+- 📝&nbsp;Checkout my [resume](https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4){:target="_blank"}
 - 😄&nbsp;Pronouns : he | him
 - ⚡&nbsp;Fun fact : When I am free, I watch annimation.
 
-<br/>
+<br />
 
 ### ⛏️ Skills
 #### BackEnd
@@ -30,12 +30,8 @@ I am backend developer. I like to talk to the computer💻 while drinking coffee
 ![Static Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-<br/>
+<br />
 
 ### 📊 Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hsyoodev" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsyoodev&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=hsyoodev" />
+<img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsyoodev&layout=compact&langs_count=8&card_width=320" />
