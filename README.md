@@ -1,5 +1,5 @@
 ## 👋 Hello World, I'm HoSeon Yoo
-I am backend developer. I like to talk to the computer💻 while drinking coffee☕.
+I am backend developer. I am very interested in coffee☕, computers💻, and [IT news](https://www.itworld.co.kr/main/).
 
 <br/>
 
@@ -8,7 +8,7 @@ I am backend developer. I like to talk to the computer💻 while drinking coffee
 ### 🧐 More About Me
 - 🌱&nbsp;I’m currently learning [Spring](https://spring.io/)
 - 👨🏻‍💻&nbsp;Most of my projects are available on [Github](https://github.com/hsyoodev?tab=repositories)
-- ✨&nbsp;Knowing the true value of **persistence**, I am running one commit per day and [blogging](https://velog.io/@hsyoodev)
+- ✨&nbsp;Knowing the true value of **persistence**, I am doing 1-commit exercise per day, 1-hour gym workout per day, and running a [technology blog](https://velog.io/@hsyoodev)
 - 💬&nbsp;Ask me about anything tech related, I am happy to help
 - 💌&nbsp;Feel free to send me on Email
 - 📝&nbsp;Checkout my [resume](https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4)
