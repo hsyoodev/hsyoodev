@@ -8,7 +8,7 @@ I am backend developer. I like to talk to the computer💻 while drinking coffee
 ### 🧐 More About Me
 - 🌱&nbsp;I’m currently learning [Spring](https://spring.io/)
 - 👨🏻‍💻&nbsp;Most of my projects are available on [Github](https://github.com/hsyoodev?tab=repositories)
-- ✨&nbsp;Knowing the true value of **persistence**, I am running one commit per day and [blogging](https://incredible-meeting-d9c.notion.site/BLOG-535d969c238147639a040f8076ae19c4?pvs=4)
+- ✨&nbsp;Knowing the true value of **persistence**, I am running one commit per day and [blogging](https://velog.io/@hsyoodev)
 - 💬&nbsp;Ask me about anything tech related, I am happy to help
 - 💌&nbsp;Feel free to send me on Email
 - 📝&nbsp;Checkout my [resume](https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4)
@@ -21,14 +21,17 @@ I am backend developer. I like to talk to the computer💻 while drinking coffee
 #### BackEnd
 ![Static Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-IntelliJ-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 #### FrontEnd
 ![Static Badge](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+#### Tool & Collaboration
+![Static Badge](https://img.shields.io/badge/-IntelliJ-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Eclipse-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br />
 
