@@ -8,7 +8,7 @@ I am backend developer. I am very interested in coffee☕, computers💻, and [I
 ### 🧐 More About Me
 - 🌱&nbsp;I’m currently learning [Spring](https://spring.io/)
 - 👨🏻‍💻&nbsp;Most of my projects are available on [Github](https://github.com/hsyoodev?tab=repositories)
-- ✨&nbsp;Knowing the true value of **persistence**, I run a one-commit-a-day and [Technology blog](https://velog.io/@hsyoodev)
+- ✨&nbsp;Knowing the true value of **persistence**, I run one commit a day and [Technology blog](https://velog.io/@hsyoodev)
 - 💬&nbsp;Ask me about anything tech related, I am happy to help
 - 💌&nbsp;Feel free to send me on Email
 - 📝&nbsp;Checkout my [Resume](https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4)
