@@ -1,5 +1,5 @@
 ## 👋 Hello World, I'm HoSeon Yoo
-I am backend developer. I am very interested in coffee☕, computers💻, and [IT news](https://www.itworld.co.kr/main/).
+I am backend developer. I am very interested in Coffee☕, Desk Setup💻 and [IT news](https://www.itworld.co.kr/main/).
 
 <br/>
 
