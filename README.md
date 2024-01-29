@@ -17,7 +17,7 @@ A developer from South Korea.
 
 ### ⛏️ Skills
 #### BackEnd
-![Static Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
