@@ -1,7 +1,5 @@
-## 👋 Hello World, I'm HoSeon Yoo
-I am backend developer. I am very interested in Coffee☕, Desk Setup💻 and [IT news](https://www.itworld.co.kr/main/).
-
-<br/>
+## Hello 👋, I'm HoSeon Yoo 
+A developer from South Korea.
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ol9ha0xuv81zi6hq0ktl1qedszsu67dq263edjgf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="330" height="300"/>
 
