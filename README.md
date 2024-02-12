@@ -16,22 +16,25 @@ A developer from South Korea.
 <br/>
 
 ### ⛏️ Skills
-#### BackEnd
-![Static Badge](https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
-#### FrontEnd
-![Static Badge](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+#### Frontend
+![Static Badge](https://img.shields.io/badge/-html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### Backend
+![Static Badge](https://img.shields.io/badge/-java-%23007396?style=for-the-badge&logo=java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### Tool & Collaboration
-![Static Badge](https://img.shields.io/badge/-IntelliJ-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Eclipse-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-intellij-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-eclipse-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br />
 
