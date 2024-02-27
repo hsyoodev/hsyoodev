@@ -27,14 +27,10 @@ A developer from South Korea.
 ![Static Badge](https://img.shields.io/badge/-spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
 #### Tool & Collaboration
-![Static Badge](https://img.shields.io/badge/-intellij-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-eclipse-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-github-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 <br />
 
