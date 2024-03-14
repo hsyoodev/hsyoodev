@@ -9,7 +9,7 @@ A developer from South Korea.
 - ✨&nbsp;Knowing the true value of **persistence**, I run one commit a day and [Blog](https://velog.io/@hsyoodev)
 - 💬&nbsp;Ask me about anything tech related, I am happy to help
 - 💌&nbsp;Feel free to send me on Email
-- 📝&nbsp;Checkout my [Resume](https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4)
+- 📝&nbsp;Checkout my [Resume]([https://incredible-meeting-d9c.notion.site/PROFILE-b9a8a32f93684090bbd80e513a099b76?pvs=4](https://drive.google.com/file/d/1VnNyhoKcKq7xtj9n7kYvnF37qn4NechQ/view?usp=sharing))
 - 😄&nbsp;Pronouns : he | him
 - ⚡&nbsp;Fun fact : When I am free, I watch annimation
 
