@@ -15,21 +15,22 @@ A developer from South Korea.
 
 <br/>
 
-### ⛏️ Skills
+### ⛏️ Tech Stack
 #### Frontend
-![Static Badge](https://img.shields.io/badge/-html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 #### Backend
 ![Static Badge](https://img.shields.io/badge/-java-%23007396?style=for-the-badge&logo=java&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+#### Database
 ![Static Badge](https://img.shields.io/badge/-mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### Infra
+![Static Badge](https://img.shields.io/badge/-docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 #### Tool & Collaboration
 ![Static Badge](https://img.shields.io/badge/-github-%23181717?style=for-the-badge&logo=github&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 <br />
