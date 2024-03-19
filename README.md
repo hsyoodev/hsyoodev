@@ -6,7 +6,7 @@ A developer from South Korea.
 ### 🧐 More About Me
 - 🌱&nbsp;I’m currently learning [Spring](https://spring.io/)
 - 👨🏻‍💻&nbsp;Most of my projects are available on [Github](https://github.com/hsyoodev?tab=repositories)
-- ✨&nbsp;I know the importance of **consistency**, so I'm trying to do 1 commit every day, and I'm also running a [tech blog](https://velog.io/@hsyoodev/posts).
+- ✨&nbsp;I know the importance of **consistency**, so I'm trying to do 1 commit every day, and I'm also running a [Tech Blog](https://velog.io/@hsyoodev/posts).
 - 💬&nbsp;Ask me about anything tech related, I am happy to help
 - 💌&nbsp;Feel free to send me on Email
 - 📝&nbsp;Checkout my [Resume](https://drive.google.com/file/d/1VnNyhoKcKq7xtj9n7kYvnF37qn4NechQ/view?usp=sharing)
